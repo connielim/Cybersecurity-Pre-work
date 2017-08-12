@@ -27,7 +27,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='pre-work.gif' title='conniel1 - Pre-Work Gif' width='' alt='Pre-work Gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
